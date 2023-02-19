@@ -3,9 +3,9 @@ title: Pagina principal
 permalink: /
 ---
 
-# Welcome to {{site.title}} {{page.title}} 
+# Bienvenido a {{page.title}} de {{site.title}} 
 
-## Paginas:
+### Paginas:
 
 <ul>
 {% for page in site.pages %}
@@ -16,7 +16,7 @@ permalink: /
 </ul>
  
 
-## Posts:
+### Posts:
 
 <ul>
   {% for post in site.posts %}

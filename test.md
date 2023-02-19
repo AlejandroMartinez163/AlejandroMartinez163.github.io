@@ -1,6 +1,6 @@
 ---
   title: test
-  permalink: /categories/
+  permalink: /categoriesa/
   sidebar:
     nav: "foo"  
 

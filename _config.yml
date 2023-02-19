@@ -1,7 +1,11 @@
 #theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+minima:
+  skin: dark
+
 
 plugins:
   - jekyll-remote-theme 
@@ -9,6 +13,7 @@ plugins:
   - jekyll-paginate
 
 title: Alejandromartinez163.github.io
+name: Alejandro Martinez
 
 defaults:
   - scope:
@@ -39,8 +44,5 @@ paginate_path: /blog/page:num/
 
 
 
-minima:
-  skin: dark
 
-name: oscar novillo
   

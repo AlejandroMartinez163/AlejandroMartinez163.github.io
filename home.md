@@ -26,4 +26,4 @@ permalink: /
   {% endfor %}
 </ul>
 
-![Image](/assets/img/Fromsoftwaregames.jpg)
+![Image](/assets/img/Fromsoftwaregames.png)

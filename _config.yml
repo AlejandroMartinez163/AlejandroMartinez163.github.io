@@ -1,5 +1,5 @@
 #theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "pages-themes/dinky@v0.2.0"
 
 minimal_mistakes_skin: "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -8,7 +8,7 @@ plugins:
   - jekyll-include-cache # add this line to the plugins list if you already have one
   - jekyll-paginate
 
-title: hola ASIR2
+title: Alejandromartinez163.github.io
 
 defaults:
   - scope:

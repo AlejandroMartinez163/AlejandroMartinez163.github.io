@@ -26,4 +26,4 @@ permalink: /
   {% endfor %}
 </ul>
 
-![Image](/assets/img/logo-jekyll.png)
+![Image](/assets/img/Fromsoftwaregames.jpg)

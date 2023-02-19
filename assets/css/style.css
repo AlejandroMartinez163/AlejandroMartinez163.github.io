@@ -6,7 +6,7 @@
 
 body {
 
-    background: rgb(112, 106, 106) ;
+    background: rgb(112, 106, 106)
 
 }
 .post{@import "minima/skins/{{ site.minima.skin | default: 'dark' }};"
@@ -24,17 +24,3 @@ body {
 
 /* hacer que una imagen se mueva dependiendo de la posicion del mouse */
 
-.menu {
-  display: none;
-}
-
-.menu li {
-  display: block;
-}
-
-.menu a {
-  display: block;
-  padding: 5px 10px;
-  background-color: #000;
-  color: #fff;
-}

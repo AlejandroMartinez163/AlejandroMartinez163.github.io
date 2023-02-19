@@ -1,19 +1,14 @@
 #theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
-minima:
-  skin: dark
-
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 plugins:
   - jekyll-remote-theme 
   - jekyll-include-cache # add this line to the plugins list if you already have one
   - jekyll-paginate
 
-title: Alejandromartinez163.github.io
-name: Alejandro Martinez
+title: hola ASIR2
 
 defaults:
   - scope:
@@ -44,5 +39,8 @@ paginate_path: /blog/page:num/
 
 
 
+minima:
+  skin: dark
 
+name: oscar novillo
   

@@ -1,5 +1,5 @@
 ---
-title: home
+title: Pagina principal
 permalink: /
 ---
 
@@ -12,6 +12,7 @@ permalink: /
 {% endfor %}
 </ul>
  
+aaaaaaaaaaaa
 
 <ul>
   {% for post in site.posts %}

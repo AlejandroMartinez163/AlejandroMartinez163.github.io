@@ -1,9 +1,8 @@
 ---
-title: Pagina principal
 permalink: /
 ---
 
-# Bienvenido a {{page.title}} de {{site.title}} 
+# Bienvenido a la página principal de {{site.title}} 
 
 ### Paginas:
 

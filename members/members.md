@@ -2,8 +2,27 @@
 title: members
 permalink: /members
 ---
+<style>
+h1{
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Optimus Princeps';
+  font-weight: 100;
+  color: #fff;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+table{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ th, tr, td {
+  padding: 15px;
+  }
 
-## Gente que se hizo la no hit
+</style>
+<h1> Gente que se hizo la no hit </h1>
 
 <table>
   <tr>
@@ -18,3 +37,4 @@ permalink: /members
     <td>{{ persona.juego2 }} </td>
     </tr>
   {% endfor %}
+</table>

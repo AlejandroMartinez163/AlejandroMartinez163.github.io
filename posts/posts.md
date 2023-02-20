@@ -1,15 +1,9 @@
 ---
-layout: home
-title: Blog
-permalink: /test
+title: "Posts"
+layout: categories
+permalink: /posts/
+author_profile: true
 ---
-
-{% for post in paginator.posts %}
-  <div class="post">
-    <h1>{{ post.title }}</h1>
-    {{ post.content }}
-  </div>
-{% endfor %}
 
 <nav class="pagination">
   {% if paginator.previous_page %}

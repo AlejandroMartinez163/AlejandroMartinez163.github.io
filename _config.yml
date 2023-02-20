@@ -9,6 +9,7 @@ plugins:
   - jekyll-paginate
 
 title: Ø HIT
+title-logo: /assets/img/icono.png
 
 defaults:
   - scope:
@@ -30,7 +31,7 @@ defaults:
 
 
 # número de posts por página
-paginate: 2
+paginate: 5
 paginate_path: /blog/page:num/
 
 

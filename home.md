@@ -1,18 +1,24 @@
 ---
 title: Página principal
 permalink: /
+layout: home
 ---
 
-# Bienvenido a la {{page.title}} de {{site.title}} 
 
 ### Páginas:
 
 <ul>
-{% for page in site.pages %}
   <li>
-    <a href="{{ page.url }}">{{ page.title }}</a>
+    <a href="AlejandroMartinez163.github.io/test"> Test</a>
   </li>
-{% endfor %}
+
+  <li>
+    <a href="AlejandroMartinez163.github.io/members"> Members</a>
+  </li>
+
+  <li>
+    <a href="AlejandroMartinez163.github.io/posts"> Posts</a>
+  </li>
 </ul>
  
 

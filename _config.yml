@@ -1,7 +1,7 @@
 #theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "dark" 
 
 plugins:
   - jekyll-remote-theme 
@@ -27,10 +27,6 @@ defaults:
       share: true
       related: true
 
-collections:
-  members:
-    output: true
-
 
 
 # número de posts por página
@@ -42,5 +38,5 @@ paginate_path: /blog/page:num/
 minima:
   skin: dark
 
-name: oscar novillo
+name: Alejandro Martinez
   

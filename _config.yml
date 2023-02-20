@@ -28,7 +28,12 @@ defaults:
       share: true
       related: true
 
-
+collections:
+  recipes:
+    output: true
+    permalink: /recipes/:path/
+    sort_by: date
+    sort_order: reverse
 
 # número de posts por página
 paginate: 5

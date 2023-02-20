@@ -1,9 +1,10 @@
 ---
 title: "Posts"
-layout: categories
-permalink: /posts
+layout: posts
+permalink: /posts/
 author_profile: true
 ---
+
 
 <nav class="pagination">
   {% if paginator.previous_page %}

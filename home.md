@@ -1,10 +1,11 @@
 ---
+title: Página principal
 permalink: /
 ---
 
-# Bienvenido a la página principal de {{site.title}} 
+# Bienvenido a la {{page.title}} de {{site.title}} 
 
-### Paginas:
+### Páginas:
 
 <ul>
 {% for page in site.pages %}

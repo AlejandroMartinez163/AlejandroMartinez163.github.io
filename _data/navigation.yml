@@ -1,20 +1,11 @@
 main:
-  - title: "home"
-    url: /
-    children:
-      - title: "Child Link 1"
-        url: /child-1-page-url/
-      - title: "Child Link 2"
-        url: /child-2-page-url/
   - title: "Posts"
     url: /posts/
   - title: "Tags"
     url: /tags/
   - title: "Members"
     url: /members/
-  - title: "kiko"
-    url: /kiko/
-  - title: "External Link"
-    url: https://google.com
+  - title: "Página info"
+    url: https://www.teamhitless.com/
 
 

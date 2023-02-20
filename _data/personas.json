@@ -1,13 +1,21 @@
 [
-    { "nombre": "Juan", "edad": 20, "sexo": "M" },
-    { "nombre": "Ana", "edad": 19, "sexo": "F" },
-    { "nombre": "Pedro", "edad": 32, "sexo": "M" },
-    { "nombre": "María", "edad": 25, "sexo": "F" },
-    { "nombre": "Pablo", "edad": 27, "sexo": "M" },
-    { "nombre": "Laura", "edad": 22, "sexo": "F" },
-    { "nombre": "Javier", "edad": 17, "sexo": "M" },
-    { "nombre": "Sandra", "edad": 28, "sexo": "F" },
-    { "nombre": "Mario", "edad": 24, "sexo": "M" },
-    { "nombre": "Julia", "edad": 41, "sexo": "F"}
+    { "nombre": "The_Happy_Hob", "juego": "dark souls 1","juego2": " "},
+    { "nombre": "chusommontero", "juego": "dark souls 1","juego2": ", dark souls 2"}, 
+    { "nombre": "Squillakilla", "juego": "dark souls 1"},
+    { "nombre": "FaraazKhan", "juego": "dark souls 1"},
+    { "nombre": "Colmer", "juego": "dark souls 1"},
+    { "nombre": "DonnyRekt", "juego": "dark souls 1"},
+    { "nombre": "GinoMachino", "juego": "dark souls 1"},
+    { "nombre": "schiyo", "juego": "dark souls 1"},
+    { "nombre": "Vahiguru", "juego": "dark souls 1"},
+    { "nombre": "Kazoodle", "juego": "dark souls 1"},
+    { "nombre": "EdenIssue", "juego": "dark souls 1"},
+    { "nombre": "dinossindgeil", "juego": "dark souls 1"},
+    { "nombre": "Imapi", "juego": "dark souls 1"},
+    { "nombre": "SinghaVOB", "juego": "dark souls 1"},
+    { "nombre": "Evorynn", "juego": "dark souls 1"},
+    { "nombre": "MarcussMcV96", "juego": "dark souls 1"},
+    { "nombre": "MezzPlays", "juego": "dark souls 1"},
+    { "nombre": "ThePapaFinn", "juego": "dark souls 1"},
+    { "nombre": "Grollm", "juego": "dark souls 1"}
 ]
-

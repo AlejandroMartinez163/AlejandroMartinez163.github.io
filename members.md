@@ -3,15 +3,18 @@ title: members
 permalink: /members
 ---
 
-# Members
 
+# Miembros con posts
 
 {% for member in site.members %}
-  ## {{ member.name }} - {{ member.position }}
+  <p> {{ member.name }} - {{ member.position }} </p>
   [ver]({{ member.url }}) 
-  {{ member.content | markdownify }}
+
 {% endfor %}
 
+## Gente que se hizo la no hit
+
 {% for persona in site.data.personas %}
-  ## {{ persona.nombre }} - {{ persona.edad }}
+  
+  <p> {{ persona.nombre }} - {{ persona.juego }} {{ persona.juego2 }} </p>
 {% endfor %}

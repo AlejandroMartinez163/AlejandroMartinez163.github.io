@@ -1,6 +1,6 @@
 ---
 title: members
-permalink: /members
+permalink: /members/
 ---
 <style>
 h1{
@@ -32,9 +32,9 @@ table{
   </tr>
   {% for persona in site.data.personas %}
     <tr>
-    <td> {{ persona.nombre }} </td> 
+    <td>{{ persona.nombre }}</td> 
     <td>{{ persona.juego }}</td>
-    <td>{{ persona.juego2 }} </td>
+    <td>{{ persona.juego2 }}</td>
     </tr>
   {% endfor %}
 </table>

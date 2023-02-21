@@ -1,9 +1,9 @@
 ---
-title: "Posts"
-layout: posts
-permalink: /posts/
-author_profile: true
+title: "Hacer posts"
+layout: home
+permalink: /make-posts/
 ---
+
 
 <nav class="pagination">
   {% if paginator.previous_page %}

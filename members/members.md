@@ -22,6 +22,8 @@ table{
   }
 
 </style>
+
+
 <h1> Gente que se hizo la no hit </h1>
 
 <table>

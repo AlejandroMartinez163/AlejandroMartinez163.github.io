@@ -1,16 +1,22 @@
 ---
 title: "Hacer posts"
-layout: home
 permalink: /make-posts/
 ---
 
+Como hacer los posts:
 
-<nav class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}">Más nuevo</a>
-  {% endif %}
+1- Creamos un md en la carpeta _posts
 
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}">Más antiguo</a>
-  {% endif %}
-</nav>
+![tabla-members1](/assets/img/post1.png)
+
+2- Añadimos el _layout posts.html
+
+![tabla-members2](/assets/img/post2.png)
+
+3- Añadimos el _layout posts_mio.html
+
+![tabla-members2](/assets/img/post3.png)
+
+4- Creamos posts
+
+![tabla-members2](/assets/img/post4.png)

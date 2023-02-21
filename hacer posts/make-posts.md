@@ -2,8 +2,18 @@
 title: "Hacer posts"
 permalink: /make-posts/
 ---
+<style>
 
-Como hacer los posts:
+body{
+    text-align: center;
+}
+@media (max-width: 1768px) {
+  .lado {
+    display: none;
+  }
+}
+</style>
+# Como hacer los posts:
 
 1- Creamos un md en la carpeta _posts
 
@@ -20,3 +30,7 @@ Como hacer los posts:
 4- Creamos posts
 
 ![post4](/assets/img/post4.png)
+
+5- Ya esta el post listo
+
+![post4](/assets/img/post7.png)

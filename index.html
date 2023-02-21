@@ -3,38 +3,23 @@ layout: home
 permalink: /
 
 ---
-<style>
-  img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    margin: 0;
-    width: 30%;
-    height: 90%;
-    margin-top: 5.55%;
-  }
-  </style>
+
 
 <body>
-  <img src="/assets/img/ds3.png">
   
   <h1> Bienvenido a la pagina principal de {{site.title}} </h1>
 
-  <h3> Páginas:</h3>
+  <h3 class="archive__subtitle">Menu</h3>
 
 <ul>
 
-
-  <li>
-    <a href="/members"> Members</a>
-  </li>
 
   <li>
     <a href="/make-members"> Hacer Miembros</a>
   </li>
 
   <li>
-    <a href="/posts">Posts</a>
+    <a href="/make-menu/"> Hacer menu</a>
   </li>
 
   <li>
@@ -42,19 +27,13 @@ permalink: /
   </li>
 
   <li>
-    <a href="/"> </a>
+    <a href="/make-estilos"> Hacer estilos</a>
+  </li>
+
+  <li>
+    <a href="/make-paginate"> Hacer un paginate</a>
   </li>
 </ul>
  
-
-<h3> Posts:</h3>
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
 
 </body>

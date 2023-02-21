@@ -5,7 +5,7 @@ minimal_mistakes_skin: "dark"
 
 plugins:
   - jekyll-remote-theme 
-  - jekyll-include-cache # add this line to the plugins list if you already have one
+  - jekyll-include-cache 
   - jekyll-paginate
 
 title: Ø HIT
@@ -36,7 +36,7 @@ collections:
     sort_order: reverse
 
 # número de posts por página
-paginate: 2
+paginate: 5
 paginate_path: /posts/page:num/
 
 

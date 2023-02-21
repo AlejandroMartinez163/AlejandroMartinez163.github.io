@@ -1,5 +1,5 @@
 ---
-title: "Han añadido 2 boses nuevos"
+title: "Han añadido 2 boses nuevos - Alejandro Martinez"
 layout: posts_mio
 author: Alejandro Martinez
 categories: 

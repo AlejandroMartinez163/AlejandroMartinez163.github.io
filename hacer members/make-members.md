@@ -2,8 +2,18 @@
 title: "Hacer miembros"
 permalink: /make-members/
 ---
+<style>
 
-Como hacer la tabla miembros:
+body{
+    text-align: center;
+}
+@media (max-width: 1768px) {
+  .lado {
+    display: none;
+  }
+}
+</style>
+# Como hacer la tabla miembros:
 
 1- Crear un archivo .json en la carpeta _data
 

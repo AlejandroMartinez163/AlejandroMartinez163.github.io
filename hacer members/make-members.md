@@ -15,10 +15,7 @@ Como hacer la tabla miembros:
 
 ![tabla-members2](/assets/img/tabla-members2.png)
 
-4- Ponemos estilos en el archivo .md
 
-![tabla-members3](/assets/img/tabla-members3.png)
-
-5- Ya esta la tabla lista 
+4- Ya esta la tabla lista 
 
 ![tabla-members4](/assets/img/tabla-members4.png)

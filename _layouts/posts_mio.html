@@ -12,7 +12,11 @@ layout: default
     margin-top: 50px;
     margin-bottom: 50px;
   }
- 
+  @media (max-width: 11768px) {
+  .lado {
+    display: none;
+  }
+  }
   
   body {
     display: flex;
@@ -26,7 +30,7 @@ layout: default
       height: 100%; 
   }
   </style>
-  
+  <br>
 <div class="post">
   <small>{{ page.date | date: "%-d %B %Y" }}</small>
   <h1>{{ page.title }}</h1>

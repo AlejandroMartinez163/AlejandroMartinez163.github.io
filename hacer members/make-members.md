@@ -7,11 +7,12 @@ permalink: /make-members/
 body{
     text-align: center;
 }
-@media (max-width: 1768px) {
+@media (max-width: 1800px) {
   .lado {
     display: none;
   }
 }
+
 </style>
 # Como hacer la tabla miembros:
 

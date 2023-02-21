@@ -34,3 +34,5 @@ body{
 ![post5](/assets/img/paginate6.png)
 
 
+**Apunte:**
+Sin cambiar ninguna configuración el paginate no aparece en el github pages solo aparece en el local host de clase

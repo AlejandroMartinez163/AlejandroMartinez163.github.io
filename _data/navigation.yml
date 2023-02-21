@@ -5,5 +5,8 @@ main:
     url: /members/
   - title: "Teamhitless"
     url: https://www.teamhitless.com/
-
-
+  - title: "Mi Github Pages"
+    url:  https://alejandromartinez163.github.io/
+  - title: "Mi Netlify"
+    url:  https://helpful-longma-21f4d2.netlify.app/
+  
